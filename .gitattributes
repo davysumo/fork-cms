@@ -1,0 +1,5 @@
+/docs export-ignore
+/.github export-ignore
+.gitattributes export-ignore
+.scrutinizer.yml export-ignore
+codecov.yml export-ignore
